@@ -1,2 +1,2 @@
 # restore-symbol
-更新支持swift
+支持swift
